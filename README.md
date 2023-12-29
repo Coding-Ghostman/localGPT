@@ -1,22 +1,3 @@
-# LocalGPT: Secure, Local Conversations with Your Documents 🌐
-
-**LocalGPT** is an open-source initiative that allows you to converse with your documents without compromising your privacy. With everything running locally, you can be assured that no data ever leaves your computer. Dive into the world of secure, local document interactions with LocalGPT.
-
-## Features 🌟
-- **Utmost Privacy**: Your data remains on your computer, ensuring 100% security.
-- **Versatile Model Support**: Seamlessly integrate a variety of open-source models, including HF, GPTQ, GGML, and GGUF.
-- **Diverse Embeddings**: Choose from a range of open-source embeddings.
-- **Reuse Your LLM**: Once downloaded, reuse your LLM without the need for repeated downloads.
-- **Chat History**: Remembers your previous conversations (in a session).
-- **API**: LocalGPT has an API that you can use for building RAG Applications.
-- **Graphical Interface**: LocalGPT comes with two GUIs, one uses the API and the other is standalone (based on streamlit).
-- **GPU, CPU & MPS Support**: Supports multiple platforms out of the box, Chat with your data using `CUDA`, `CPU` or `MPS` and more!
-
-## Dive Deeper with Our Videos 🎥
-- [Detailed code-walkthrough](https://youtu.be/MlyoObdIHyo)
-- [Llama-2 with LocalGPT](https://youtu.be/lbFmceo4D5E)
-- [Adding Chat History](https://youtu.be/d7otIM_MCZs)
-- [LocalGPT - Updated (09/17/2023)](https://youtu.be/G_prHSKX9d4)
 
 ## Technical Details 🛠️
 By selecting the right local models and the power of `LangChain` you can run the entire RAG pipeline locally, without any data leaving your environment, and with reasonable performance.
